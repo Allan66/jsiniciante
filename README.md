@@ -1,1 +1,1 @@
-# portofolio1all
+Alguns exercícios praticando  JavaScript
